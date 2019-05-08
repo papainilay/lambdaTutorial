@@ -19,7 +19,7 @@ public class Runner {
 			/*System.out.println("please enter the choice to be tested :");
 			 Scanner p= new Scanner(System.in);
 			 int b= p.nextInt();
-			System.out.println(b);*/
+			System.out.println(b);*/// commenting for reasons
 
 			System.out.println("please enter the number to be tested :");
 			 Scanner t= new Scanner(System.in);
